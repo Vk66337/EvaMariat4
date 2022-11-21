@@ -6,13 +6,10 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin,
 Thats All, i will Provide Movies There...🤓🤪
 
 
-⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
-
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @fablanerofficial"""
     HELP_TXT = """
-    🙋🏻‍♂️   Hellooo  {} 🤓
+    🙋🏻‍♂️   Hellooo  {} 
 
 ○  Tutorial video is here @sources_cods
 
@@ -34,7 +31,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @vinit
 
 ©️ Maintained By @GuruBhai11"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
